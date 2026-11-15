@@ -1,5 +1,5 @@
 ---
-name: targeted-job-search
+name: resume-to-roles
 description: Find jobs in any profession or industry from a user's resume and target locations. Verify listings, explain fit, and deliver ranked batches of 20 without repeats.
 ---
 
