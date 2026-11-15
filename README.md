@@ -4,11 +4,11 @@
 
 ## 怎么用
 
-把本目录作为 `targeted-job-search` 安装到支持 Agent Skills 的工具中。Codex 项目级用法：把包含 `SKILL.md` 和 `references/` 的目录放到 `.agents/skills/targeted-job-search/`。如果技能菜单尚未更新，可以直接引用 `SKILL.md`。
+把本目录作为 `resume-to-roles` 安装到支持 Agent Skills 的工具中。Codex 项目级用法：把包含 `SKILL.md` 和 `references/` 的目录放到 `.agents/skills/resume-to-roles/`。如果技能菜单尚未更新，可以直接引用 `SKILL.md`。
 
 在 Codex 中输入：
 
-> $targeted-job-search 帮我找工作。先看我的简历，再确认目标地区。
+> $resume-to-roles 帮我找工作。先看我的简历，再确认目标地区。
 
 可以上传简历或粘贴文字；建议先删掉电话、邮箱和住址等联系方式。地区可指定多个城市、一个国家或远程。发「下一批」继续搜索，不重复展示已经推荐过的岗位。
 
